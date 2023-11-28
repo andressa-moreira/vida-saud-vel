@@ -8,6 +8,10 @@ body {
     color: var(--branco-principal);
 }
 
+.lista__item {
+    font-size: 32px;
+}
+
 .principal {
     text-align: center;
   
